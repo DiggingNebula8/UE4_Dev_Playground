@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D8BBE5C3-44D4-B1D2-367A-88986819AEFE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4_Dev_Playground",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
